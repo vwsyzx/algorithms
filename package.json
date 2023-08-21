@@ -1,0 +1,15 @@
+{
+  "name": "nothing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./map-set.js",
+    "test": "node"
+  },
+  "author": "islom",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
